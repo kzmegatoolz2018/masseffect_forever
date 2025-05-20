@@ -1,0 +1,6 @@
+@masseffect_forever_HostAddress = http://localhost:5204
+
+GET {{masseffect_forever_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
